@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": "74a38d9b-5845-4fdb-a9b0-9bd335593bcf",
+        "author": "kiehy",
+        "content": "blablalbalblalb",
+        "timestamp": "2026-07-18T05:38:42.706Z",
+        "images": [
+            "https://kiehy.github.io/xash-news-data/images/218e1b84-08c0-4584-9653-ff1e9ac920de.png"
+        ],
+        "jump_url": ""
+    },
+    {
+        "id": "7195ea22-c57b-4dd4-bbc8-20708795b41d",
+        "author": "kiehy",
+        "content": "cu",
+        "timestamp": "2026-07-18T05:06:33.390Z",
+        "images": [
+            "https://kiehy.github.io/xash-news-data/images/87ba7f43-93e4-4c79-a138-28d5d0b14378.jpg"
+        ],
+        "jump_url": ""
+    }
+]

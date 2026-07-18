@@ -1,5 +1,22 @@
 [
     {
+        "id": "66895891-e35b-4022-b3db-ddad267a6733",
+        "title": "dasda",
+        "category": "announcement",
+        "version": "2",
+        "author": "k1ehy",
+        "author_id": "1514453475499577510",
+        "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "content": "sadsa",
+        "images": [
+            "https://kiehy.github.io/xash-news-data/images/f83f282b-c215-4b6a-a074-c865b3607501.jpg"
+        ],
+        "jump_url": "",
+        "created_at": "2026-07-18T05:52:51.127Z",
+        "edited_at": null,
+        "pinned": false
+    },
+    {
         "id": "826fe223-e762-4172-97ed-e146ca18c04d",
         "author": "kiehy1",
         "content": "Atualizaçao 0,1,1",

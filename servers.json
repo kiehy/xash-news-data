@@ -3,9 +3,9 @@
   "servers": [
     {
       "id": "official-1",
-      "name": "CS16 Client — Servidor Oficial",
-      "address": "127.0.0.1",
-      "port": 27015,
+      "name": "BRXGames | #4FUN¹ ",
+      "address": "131.196.198.52",
+      "port": 27052,
       "game": "cstrike",
       "enabled": true
     }

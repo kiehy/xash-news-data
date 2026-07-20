@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "id": "e546b131-cef4-4d9e-907f-923976d3589b",
+        "title": "sadsa",
+        "category": "announcement",
+        "version": "231",
+        "author": "k1ehy",
+        "author_id": "1514453475499577510",
+        "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "content": "asdas",
+        "images": [
+            "https://kiehy.github.io/xash-news-data/images/b2875fa7-5cc7-4f6b-bed7-89d55763d5f8.png"
+        ],
+        "jump_url": "gsfsd.com",
+        "created_at": "2026-07-20T22:07:58.863Z",
+        "edited_at": null,
+        "pinned": false
+    }
+]
